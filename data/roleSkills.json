@@ -1,0 +1,31 @@
+[
+  { "roleId": "r_da_ic1", "skillId": "sk_sql", "target": "INTERMEDIATE", "weight": 3 },
+  { "roleId": "r_da_ic1", "skillId": "sk_python", "target": "BEGINNER", "weight": 2 },
+  { "roleId": "r_da_ic1", "skillId": "sk_dataviz", "target": "INTERMEDIATE", "weight": 2 },
+  { "roleId": "r_da_ic1", "skillId": "sk_stats", "target": "BEGINNER", "weight": 1 },
+  { "roleId": "r_da_ic1", "skillId": "sk_comm", "target": "ADVANCED", "weight": 2 },
+
+  { "roleId": "r_be_ic2", "skillId": "sk_node", "target": "INTERMEDIATE", "weight": 3 },
+  { "roleId": "r_be_ic2", "skillId": "sk_ts", "target": "INTERMEDIATE", "weight": 2 },
+  { "roleId": "r_be_ic2", "skillId": "sk_api", "target": "ADVANCED", "weight": 2 },
+  { "roleId": "r_be_ic2", "skillId": "sk_postgres", "target": "INTERMEDIATE", "weight": 2 },
+  { "roleId": "r_be_ic2", "skillId": "sk_git", "target": "ADVANCED", "weight": 1 },
+
+  { "roleId": "r_fe_ic2", "skillId": "sk_react", "target": "ADVANCED", "weight": 3 },
+  { "roleId": "r_fe_ic2", "skillId": "sk_ts", "target": "INTERMEDIATE", "weight": 2 },
+  { "roleId": "r_fe_ic2", "skillId": "sk_js", "target": "ADVANCED", "weight": 2 },
+  { "roleId": "r_fe_ic2", "skillId": "sk_api", "target": "INTERMEDIATE", "weight": 1 },
+  { "roleId": "r_fe_ic2", "skillId": "sk_comm", "target": "INTERMEDIATE", "weight": 1 },
+
+  { "roleId": "r_pm_ic2", "skillId": "sk_req", "target": "ADVANCED", "weight": 3 },
+  { "roleId": "r_pm_ic2", "skillId": "sk_prod", "target": "ADVANCED", "weight": 3 },
+  { "roleId": "r_pm_ic2", "skillId": "sk_ux", "target": "INTERMEDIATE", "weight": 2 },
+  { "roleId": "r_pm_ic2", "skillId": "sk_jira", "target": "INTERMEDIATE", "weight": 1 },
+  { "roleId": "r_pm_ic2", "skillId": "sk_scrum", "target": "INTERMEDIATE", "weight": 1 },
+
+  { "roleId": "r_po_ic2", "skillId": "sk_pp", "target": "ADVANCED", "weight": 3 },
+  { "roleId": "r_po_ic2", "skillId": "sk_comm", "target": "ADVANCED", "weight": 2 },
+  { "roleId": "r_po_ic2", "skillId": "sk_lxd", "target": "INTERMEDIATE", "weight": 2 },
+  { "roleId": "r_po_ic2", "skillId": "sk_okrs", "target": "INTERMEDIATE", "weight": 1 },
+  { "roleId": "r_po_ic2", "skillId": "sk_ai", "target": "BEGINNER", "weight": 1 }
+]
