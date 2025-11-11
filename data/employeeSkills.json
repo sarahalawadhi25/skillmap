@@ -1,0 +1,44 @@
+[
+  { "employeeId": "e_ali", "skillId": "sk_sql", "level": "BEGINNER" },
+  { "employeeId": "e_ali", "skillId": "sk_python", "level": "BEGINNER" },
+  { "employeeId": "e_ali", "skillId": "sk_dataviz", "level": "BEGINNER" },
+
+  { "employeeId": "e_sara", "skillId": "sk_sql", "level": "INTERMEDIATE" },
+  { "employeeId": "e_sara", "skillId": "sk_python", "level": "BEGINNER" },
+  { "employeeId": "e_sara", "skillId": "sk_comm", "level": "ADVANCED" },
+
+  { "employeeId": "e_noura", "skillId": "sk_req", "level": "ADVANCED" },
+  { "employeeId": "e_noura", "skillId": "sk_prod", "level": "ADVANCED" },
+  { "employeeId": "e_noura", "skillId": "sk_ux", "level": "INTERMEDIATE" },
+
+  { "employeeId": "e_faris", "skillId": "sk_node", "level": "INTERMEDIATE" },
+  { "employeeId": "e_faris", "skillId": "sk_ts", "level": "INTERMEDIATE" },
+  { "employeeId": "e_faris", "skillId": "sk_api", "level": "INTERMEDIATE" },
+
+  { "employeeId": "e_lina", "skillId": "sk_react", "level": "ADVANCED" },
+  { "employeeId": "e_lina", "skillId": "sk_js", "level": "ADVANCED" },
+  { "employeeId": "e_lina", "skillId": "sk_ts", "level": "INTERMEDIATE" },
+
+  { "employeeId": "e_hassan", "skillId": "sk_pp", "level": "ADVANCED" },
+  { "employeeId": "e_hassan", "skillId": "sk_lxd", "level": "INTERMEDIATE" },
+  { "employeeId": "e_hassan", "skillId": "sk_comm", "level": "ADVANCED" },
+
+  { "employeeId": "e_yousef", "skillId": "sk_node", "level": "ADVANCED" },
+  { "employeeId": "e_yousef", "skillId": "sk_postgres", "level": "INTERMEDIATE" },
+  { "employeeId": "e_yousef", "skillId": "sk_api", "level": "ADVANCED" },
+
+  { "employeeId": "e_saeed", "skillId": "sk_react", "level": "INTERMEDIATE" },
+  { "employeeId": "e_saeed", "skillId": "sk_js", "level": "INTERMEDIATE" },
+  { "employeeId": "e_saeed", "skillId": "sk_comm", "level": "INTERMEDIATE" },
+
+  { "employeeId": "e_amal", "skillId": "sk_pp", "level": "ADVANCED" },
+  { "employeeId": "e_amal", "skillId": "sk_okrs", "level": "INTERMEDIATE" },
+  { "employeeId": "e_amal", "skillId": "sk_ai", "level": "BEGINNER" },
+
+  { "employeeId": "e_omar", "skillId": "sk_sql", "level": "BEGINNER" },
+  { "employeeId": "e_omar", "skillId": "sk_excel", "level": "INTERMEDIATE" },
+
+  { "employeeId": "e_mahra", "skillId": "sk_req", "level": "ADVANCED" },
+  { "employeeId": "e_mahra", "skillId": "sk_prod", "level": "ADVANCED" },
+  { "employeeId": "e_mahra", "skillId": "sk_jira", "level": "INTERMEDIATE" }
+]
