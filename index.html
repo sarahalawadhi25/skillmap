@@ -11,8 +11,9 @@
   <script type="module">
     async function load() {
       const skills = await fetch('data/skills.json').then(r => r.json());
-      const employees = await fetch('../data/employees.json').then(r => r.json());
-      const employeeSkills = await fetch('../data/employeeSkills.json').then(r => r.json());
+const employees = await fetch('data/employees.json').then(r => r.json());
+const employeeSkills = await fetch('data/employeeSkills.json').then(r => r.json());
+
 
       const app = document.getElementById('app');
 
