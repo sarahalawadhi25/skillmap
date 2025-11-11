@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <meta charset="UTF-8">
   <title>Skill Map Demo</title>
 </head>
 <body>
@@ -18,15 +19,15 @@
       employees.forEach(emp => {
         const list = employeeSkills.filter(es => es.employeeId === emp.id);
         const div = document.createElement('div');
-        div.innerHTML = `
-          <h3>${emp.name}</h3>
-          <ul>
-            ${list.map(s => {
-              const sk = skills.find(k => k.id === s.skillId);
-              return `<li>${sk.name}: ${s.level}</li>`;
-            }).join('')}
-          </ul>
-        `;
+
+        let html = `<h3>${emp.name}</h3><ul>`;
+        list.forEach(s => {
+          const sk = skills.find(k => k.id === s.skillId);
+          html += `<li>${sk.name}: ${s.level}</li>`;
+        });
+        html += `</ul>`;
+
+        div.innerHTML = html;
         app.appendChild(div);
       });
     }
@@ -35,3 +36,4 @@
   </script>
 </body>
 </html>
+
