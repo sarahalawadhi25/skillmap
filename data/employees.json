@@ -1,0 +1,14 @@
+[
+  { "id": "e_ali", "email": "ali.r@example.com", "name": "Ali R", "roleId": "r_da_ic1" },
+  { "id": "e_sara", "email": "sara.k@example.com", "name": "Sara K", "roleId": "r_da_ic1" },
+  { "id": "e_noura", "email": "noura.m@example.com", "name": "Noura M", "roleId": "r_pm_ic2" },
+  { "id": "e_faris", "email": "faris.t@example.com", "name": "Faris T", "roleId": "r_be_ic2" },
+  { "id": "e_lina", "email": "lina.s@example.com", "name": "Lina S", "roleId": "r_fe_ic2" },
+  { "id": "e_hassan", "email": "hassan.d@example.com", "name": "Hassan D", "roleId": "r_po_ic2" },
+  { "id": "e_mira", "email": "mira.a@example.com", "name": "Mira A", "roleId": "r_pm_ic2" },
+  { "id": "e_yousef", "email": "yousef.b@example.com", "name": "Yousef B", "roleId": "r_be_ic2" },
+  { "id": "e_saeed", "email": "saeed.h@example.com", "name": "Saeed H", "roleId": "r_fe_ic2" },
+  { "id": "e_amal", "email": "amal.f@example.com", "name": "Amal F", "roleId": "r_po_ic2" },
+  { "id": "e_omar", "email": "omar.z@example.com", "name": "Omar Z", "roleId": "r_da_ic1" },
+  { "id": "e_mahra", "email": "mahra.j@example.com", "name": "Mahra J", "roleId": "r_pm_ic2" }
+]
